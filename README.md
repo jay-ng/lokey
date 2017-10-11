@@ -31,3 +31,7 @@ git push
 
 Now your remote branch is synced with your local changes. If you believe the branch is ready for develop. Navigate to develop in github and open a new pull request.
 
+## Authors
+1. Will Steiner
+2. Huy Nguyen
+3. Corey Gates
