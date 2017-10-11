@@ -1,0 +1,30 @@
+{
+    "Description": "Default role that is applied to all unauthenticated users",
+    "ID": "Anonymous",
+    "Name": "Anonymous",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "handshake",
+                "SystemKey": "ba80ac8c0b9ce3c4f0a5f3cabced01"
+            }
+        ],
+        "Collections": [],
+        "DevicesList": {
+            "Level": 7
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 7
+        }
+    }
+}

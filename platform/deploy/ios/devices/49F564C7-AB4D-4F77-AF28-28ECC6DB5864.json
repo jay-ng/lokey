@@ -1,0 +1,13 @@
+{
+    "allow_certificate_auth": true,
+    "allow_key_auth": true,
+    "altitude": null,
+    "causeTrigger": true,
+    "enabled": true,
+    "location": null,
+    "name": "49F564C7-AB4D-4F77-AF28-28ECC6DB5864",
+    "positon": null,
+    "state": "connected",
+    "type": "iphone",
+    "user": "d8ccaf8c0bf8dca8af8b96b9a62b"
+}

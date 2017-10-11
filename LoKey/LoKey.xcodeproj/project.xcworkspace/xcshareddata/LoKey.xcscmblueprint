@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "607DAE9DFC1AEF9765C3F2E26EC872FBE135F46A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "607DAE9DFC1AEF9765C3F2E26EC872FBE135F46A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B6DF9643-DAB5-47DA-BA8B-4321D5C54F72",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "607DAE9DFC1AEF9765C3F2E26EC872FBE135F46A" : "senior-design\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LoKey",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LoKey\/LoKey.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/willSteiner\/lokey.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "607DAE9DFC1AEF9765C3F2E26EC872FBE135F46A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/willSteiner\/senior-design",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "607DAE9DFC1AEF9765C3F2E26EC872FBE135F46A"
+    }
+  ]
+}

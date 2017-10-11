@@ -1,0 +1,13 @@
+{
+    "columns": [
+        {
+            "ColumnName": "username",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ],
+    "permissions": {
+        "Anonymous": 7,
+        "Authenticated": 5
+    }
+}

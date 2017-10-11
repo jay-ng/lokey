@@ -1,0 +1,14 @@
+{
+    "current_version": 119,
+    "dependencies": "log,clearblade,Creds,State",
+    "logging_enabled": "true",
+    "name": "handshake",
+    "params": [
+        "device"
+    ],
+    "permissions": {
+        "Anonymous": 1
+    },
+    "run_user": "",
+    "source": "handshake.js"
+}

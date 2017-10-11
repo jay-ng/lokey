@@ -1,0 +1,10 @@
+{
+    "current_version": 7,
+    "dependencies": "clearblade,State,Creds,log",
+    "logging_enabled": "true",
+    "name": "syncState",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "syncState.js"
+}

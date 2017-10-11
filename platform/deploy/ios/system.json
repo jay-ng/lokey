@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "description": "Automatic device tracking application",
+    "edgeSync": {},
+    "messagingURL": "http:1883",
+    "name": "ios",
+    "platformURL": "http://localhost:9000",
+    "systemKey": "ba80ac8c0b9ce3c4f0a5f3cabced01",
+    "systemSecret": "BA80AC8C0BB0D7EAF6E29CDC9C6D"
+}

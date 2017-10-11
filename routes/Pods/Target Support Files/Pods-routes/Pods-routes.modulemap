@@ -1,0 +1,6 @@
+framework module Pods_routes {
+  umbrella header "Pods-routes-umbrella.h"
+
+  export *
+  module * { export * }
+}

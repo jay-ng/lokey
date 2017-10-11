@@ -1,0 +1,32 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "pullState",
+                "SystemKey": "8add968c0beac5d0b0c3f0f4ff68"
+            }
+        ],
+        "Collections": [],
+        "DevicesList": {
+            "Level": 5
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": {
+            "Level": 5
+        },
+        "Topics": [],
+        "UsersList": {
+            "Level": 7
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,Creds,Seed",
+    "description": "",
+    "name": "State",
+    "version": 21,
+    "visibility": "system"
+}

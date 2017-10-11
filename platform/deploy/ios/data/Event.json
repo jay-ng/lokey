@@ -1,0 +1,42 @@
+{
+    "appID": "ba80ac8c0b9ce3c4f0a5f3cabced01",
+    "collectionID": "ea90b78c0b8ebed584b688849ffb01",
+    "items": [],
+    "name": "Event",
+    "permissions": {
+        "Administrator": 7,
+        "Authenticated": 2
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "event_type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "entity_type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "entity_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "data",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}

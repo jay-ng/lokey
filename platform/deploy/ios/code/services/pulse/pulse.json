@@ -1,0 +1,12 @@
+{
+    "current_version": 28,
+    "dependencies": "clearblade,State,log,Event,Creds,Timestamp",
+    "logging_enabled": "true",
+    "name": "pulse",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "pulse.js"
+}

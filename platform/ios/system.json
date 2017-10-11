@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "Automatic device tracking application",
+    "messagingURL": "localhost:1883",
+    "name": "ios",
+    "platformURL": "http://localhost:9000",
+    "systemKey": "8add968c0beac5d0b0c3f0f4ff68",
+    "systemSecret": "8ADD968C0B8ADEE998959E86A49001"
+}

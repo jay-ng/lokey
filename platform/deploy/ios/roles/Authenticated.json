@@ -1,0 +1,43 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "syncState",
+                "SystemKey": "ba80ac8c0b9ce3c4f0a5f3cabced01"
+            },
+            {
+                "Level": 1,
+                "Name": "pulse",
+                "SystemKey": "ba80ac8c0b9ce3c4f0a5f3cabced01"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "ea90b78c0b8ebed584b688849ffb01",
+                "Items": [],
+                "Level": 2,
+                "Name": "Event"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 5
+        }
+    }
+}

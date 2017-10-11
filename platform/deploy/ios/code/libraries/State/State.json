@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,Creds,Seed,clearblade",
+    "description": "",
+    "name": "State",
+    "version": 19,
+    "visibility": "system"
+}
